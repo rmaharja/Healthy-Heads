@@ -6,9 +6,14 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
 
 ### Main functionalities: <br />
 -user authentication (using Passport) with error handling <br />
--An awesome search feaature that can filter by age, years in practice,
-gender, specialties, insurance accepted and languages spoken of the professional <br/>
--User Reviews and Ratings of the Professionals
+-An awesome search feaature that filters the professionals by:<br />
+  -Age <br />
+  -years in practice<br />
+  -gender<br />
+  -specialties<br />
+  -insurance accepted <br />
+  -languages spoken by the professional <br/>
+  -User Reviews and Ratings of the Professionals< br/>
 
 ### Want to try it locally?
 -Clone the repo to your local machine. <br />
