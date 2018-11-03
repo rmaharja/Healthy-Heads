@@ -13,4 +13,5 @@ gender, specialties, insurance accepted and languages spoken of the professional
 ### Want to try it locally?
 -Clone the repo to your local machine. <br />
 -Enter "NPM install" on the command line from the root of the directory to install the dependencies. <br />
--After the dependencies have installed 
+-After the dependencies have installed, enter "Node server.js or Nodemon server.js" on the command line to run the server. <br />
+
