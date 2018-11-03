@@ -9,3 +9,8 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
 -An awesome search feaature that can filter by age, years in practice,
 gender, specialties, insurance accepted and languages spoken of the professional <br/>
 -User Reviews and Ratings of the Professionals
+
+### Want to try it locally?
+-Clone the repo to your local machine. <br />
+-Enter "NPM install" on the command line from the root of the directory to install the dependencies. <br />
+-After the dependencies have installed 
