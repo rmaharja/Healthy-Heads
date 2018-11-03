@@ -7,13 +7,13 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
 ### Main functionalities: <br />
 -User authentication (using Passport) with error handling <br />
 -An awesome search feaature that filters the professionals by:<br />
-    -Age <br />
-    -Years in practice<br />
-    -Gender<br />
-    -Specialties<br />
-    -Insurance accepted <br />
-    -Languages spoken by the professional <br/>
-    -User Reviews and Ratings of the Professionals< br/>
+  nbsp  -Age <br />
+   nbsp -Years in practice<br />
+   nbsp -Gender<br />
+  nbsp  -Specialties<br />
+  nbsp  -Insurance accepted <br />
+  nbsp  -Languages spoken by the professional <br/>
+  nbsp  -User Reviews and Ratings of the Professionals< br/>
  ### Team roles: <br />
  -Rohit: User authentication, Routing, Database, Login Page
  -Irene: Database, Home page, Logo
