@@ -8,11 +8,11 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
 -user authentication (using Passport) with error handling <br />
 -An awesome search feaature that filters the professionals by:<br />
   -Age <br />
-  -years in practice<br />
-  -gender<br />
-  -specialties<br />
-  -insurance accepted <br />
-  -languages spoken by the professional <br/>
+  -Years in practice<br />
+  -Gender<br />
+  -Specialties<br />
+  -Insurance accepted <br />
+  -Languages spoken by the professional <br/>
   -User Reviews and Ratings of the Professionals< br/>
 
 ### Want to try it locally?
