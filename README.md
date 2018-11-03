@@ -19,4 +19,12 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
 -Clone the repo to your local machine. <br />
 -Enter "NPM install" on the command line from the root of the directory to install the dependencies. <br />
 -After the dependencies have installed, enter "Node server.js or Nodemon server.js" on the command line to run the server. <br />
+-App will run locally on localhost:8080. <br />
+
+### What's next?
+-Adding a route to let professionals add their Information themselves (verified by Admins)
+-Change database to a noSQL database for more dynamic functionality.
+-Add messaging system for professionals and users to communicate with each other.
+-Users being able to save doctors on their profile page.
+-**In production: Recriuit users and prfessionals to use the website!
 
