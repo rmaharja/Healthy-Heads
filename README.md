@@ -2,7 +2,7 @@
 (Rohit Maharjan, Tom Dennis, Morgan Bradley, Irene Rojas)
 
 ## Background
-Solving a real world problem in Mental Healthcare using MVC framework (Handlebars, Node.js, Javascript, Materialize CSS, mySql). In today's world, mental health is a topic that is very relevant.  Even NBA stars like Kevin Love have come out and shared their struggles about with mental health. Doing a quick google search for a mental health professional gives you a generic list of Psychologists, Psychiatrist and other mental health professionals.  But what if you want a specific professional to help you with your specific problem such as BPD or your OCD?  This is a much harder search.  Healthy Heads project looks to solve this problem.
+Solving a real world problem in Mental Healthcare using MVC framework (Handlebars, Node.js, Javascript, Materialize CSS, mySql, map). In today's world, mental health is a topic that is very relevant.  Even NBA stars like Kevin Love have come out and shared their struggles about with mental health. Doing a quick google search for a mental health professional gives you a generic list of Psychologists, Psychiatrist and other mental health professionals.  But what if you want a specific professional to help you with your specific problem such as BPD or your OCD?  This is a much harder search.  Healthy Heads project looks to solve this problem.
 
 ### Main functionalities: <br />
 -User authentication (using Passport) with error handling <br />
@@ -14,6 +14,11 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
   -Insurance accepted <br />
   -Languages spoken by the professional <br/>
   -User Reviews and Ratings of the Professionals< br/>
+ ### Team roles: <br />
+ -Rohit: User authentication, Routing, Database, Login Page
+ -Irene: Database, Home page, Logo
+ -Tome: Search Functionality, Database
+ -Morgan: Map
 
 ### Want to try it locally?
 -Clone the repo to your local machine. <br />
