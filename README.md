@@ -37,6 +37,6 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
 -Change database to a noSQL database for more dynamic functionality. <br />
 -Add messaging system for professionals and users to communicate with each other.<br />
 -Users being able to save doctors on their profile page. <br />
--**In production: Recriuit users and prfessionals to use the website! <br />
+-**In production: Recriuit users and professionals to use the website! <br />
 </pre>
 
