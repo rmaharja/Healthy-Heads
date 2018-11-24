@@ -15,7 +15,7 @@ Solving a real world problem in Mental Healthcare using MVC framework (Handlebar
   -Specialties<br />
   -Insurance accepted <br />
   -Languages spoken by the professional <br/>
-  -User Reviews and Ratings of the Professionals< br/>
+  -User Reviews and Ratings of the Professionals
    </pre>
 ### Team roles: <br />
 <pre>
